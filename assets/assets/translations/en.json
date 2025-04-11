@@ -1,0 +1,746 @@
+{
+  "image": "assets/images/profile-picture.jpg",
+  "name": "Tony Waar",
+  "description": "Mobile App Developer",
+  "subDescription": "Flutter Enthusiast",
+  "contacts": [
+    {
+      "tooltip": "GitLab",
+      "url": "https://gitlab.com/tonywaer1",
+      "icon": {
+        "assetName": "assets/icons/gitlab.svg"
+      }
+    },
+    {
+      "tooltip": "LinkedIn",
+      "url": "https://www.linkedin.com/in/tony-waar",
+      "icon": {
+        "assetName": "assets/icons/linkedin.svg"
+      }
+    },
+    {
+      "tooltip": "tonywaer1@gmail.com",
+      "url": "mailto:tonywaer1@gmail.com",
+      "icon": {
+        "assetName": "assets/icons/mail.svg"
+      }
+    },
+    {
+      "tooltip": "+963 934 938 016",
+      "url": "tel:+963934938016",
+      "icon": {
+        "assetName": "assets/icons/call.svg"
+      }
+    }
+  ],
+  "resumes": [
+    {
+      "languageCode": "en",
+      "url": "https://drive.google.com/file/d/1gkCguiCNpN3kQPh0Vchy36Xq346hWpJh/view?usp=sharing"
+    }
+  ],
+  "aboutDescription": "Hi, I'm Tony Waar, a mobile application developer with a strong background in IT and software engineering. I specialize in Flutter and have built a wide range of applications, from e-commerce and POS systems to medical and delivery platforms. Passionate about crafting clean, efficient code, I combine technical skills with real-world experience to create scalable and user-friendly solutions. I’m always eager to take on challenging projects that push my abilities and make a real impact.",
+  "experiences": [
+    {
+      "role": "Mobile App Developer",
+      "company": "Freelance",
+      "description": "As a freelance mobile app developer, I worked with clients across the Arab world, building custom Flutter apps for various sectors. Notable projects include Ed-Autism (Jordan), an educational app for children with autism; Manadeb (Saudi Arabia), a delivery management tool with map-based routing; VitalFit (UAE), a platform for booking sports sessions and viewing coach content; and HelloDr (Iraq), a medical platform with separate apps for patients and doctors. I also enhanced and maintained several other apps by adding features and fixing bugs.",
+      "startYear": 2025,
+      "endYear": 2023,
+      "isPresent": true,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "SQLite",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        },
+        {
+          "name": "Laravel Api",
+          "icon": {
+            "assetName": "assets/icons/api.svg"
+          }
+        },
+        {
+          "name": "Socket",
+          "icon": {
+            "assetName": "assets/icons/live.svg"
+          }
+        },
+        {
+          "name": "Figma",
+          "icon": {
+            "assetName": "assets/icons/figma.svg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "Mobile App Developer",
+      "company": "InSoftOnline - Germany",
+      "description": "Developed a digital ecosystem for restaurants, including POS systems, self-service kiosks, and management dashboards, offering a smooth user experience with both real-time and offline functionality.",
+      "isPresent": true,
+      "startYear": 2022,
+      "endYear": 2025,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "SQLite",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        },
+        {
+          "name": "Laravel Api",
+          "icon": {
+            "assetName": "assets/icons/api.svg"
+          }
+        },
+        {
+          "name": "Thermal Printer SDK",
+          "icon": {
+            "assetName": "assets/icons/sdk.svg"
+          }
+        },
+        {
+          "name": "Socket",
+          "icon": {
+            "assetName": "assets/icons/live.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/de/developer/fayez-tarboosh/id1538317002",
+          "display": "Apple App Store"
+        },
+        {
+          "url": "https://play.google.com/store/apps/developer?id=In+Soft+Online",
+          "display": "Google Play Store"
+        }
+      ]
+    },
+    {
+      "role": "Web Developer",
+      "company": "InSoftOnline - Germany",
+      "description": "I worked full-time as a Web Developer and IT Support Specialist, assisting over 50 clients with our POS and sales systems. I developed and designed more than 15 WordPress websites and handled company-wide technical support. My responsibilities included remote IT support via AnyDesk, setting up and maintaining Linux (Ubuntu) servers, designing websites and online stores, and creating a wide range of graphic materials such as logos, brochures, packaging, promotional videos, and social media content. I also contributed to UI/UX design for mobile and web applications developed by the company.",
+      "startYear": 2020,
+      "isPresent": false,
+      "endYear": 2022,
+      "technologies": [
+        {
+          "name": "WordPress",
+          "icon": {
+            "assetName": "assets/icons/wordpress.svg"
+          }
+        },
+        {
+          "name": "HTML",
+          "icon": {
+            "assetName": "assets/icons/html-5.svg"
+          }
+        },
+        {
+          "name": "CSS",
+          "icon": {
+            "assetName": "assets/icons/css3.svg"
+          }
+        },
+        {
+          "name": "bootstrap",
+          "icon": {
+            "assetName": "assets/icons/bootstrap.svg"
+          }
+        },
+        {
+          "name": "Javascript",
+          "icon": {
+            "assetName": "assets/icons/javascript.svg"
+          }
+        },
+        {
+          "name": "PHP",
+          "icon": {
+            "assetName": "assets/icons/php.svg"
+          }
+        },
+        {
+          "name": "SQL",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        },
+        {
+          "name": "Linux",
+          "icon": {
+            "assetName": "assets/icons/linux.svg"
+          }
+        },
+        {
+          "name": "Adobe Suite",
+          "icon": {
+            "assetName": "assets/icons/adobe.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://insoftonline.de",
+          "display": "InSoft Online"
+        }
+      ]
+    },
+    {
+      "role": "IT Supervisor",
+      "company": "United Insurance Company - Syria",
+      "description": "I worked as an IT Supervisor at United Insurance Company, providing full IT support across the main office and branch locations. My responsibilities included remote and on-site support via AnyDesk, training employees on the company’s insurance and internal systems, and maintaining all hardware and software infrastructure. I played a key role in upgrading company servers (Windows Server environments), developing a new corporate website, and ensuring the stability of the internal network and all connected equipment.",
+      "isPresent": false,
+      "startYear": 2018,
+      "endYear": 2020,
+      "technologies": [
+        {
+          "name": "Windows Servers",
+          "icon": {
+            "assetName": "assets/icons/windows.svg"
+          }
+        },
+        {
+          "name": "Linux",
+          "icon": {
+            "assetName": "assets/icons/linux.svg"
+          }
+        },
+        {
+          "name": "Adobe Suite",
+          "icon": {
+            "assetName": "assets/icons/adobe.svg"
+          }
+        },
+        {
+          "name": "SQL",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://uic.com.sy",
+          "display": "United Insurance Company"
+        }
+      ]
+    }
+  ],
+  "educations": [
+    {
+      "university": "Syrian Virtual University - Syria",
+      "description": "BACHELOR'S DEGREE\nIN INFORMATION TECHNOLOGY",
+      "startYear": 2019,
+      "endYear": 2023
+    },
+    {
+      "university": "Technical Computer Collage - Damascus University",
+      "description": "DIPLOMA'S DEGREE\nIN SOFTWARE ENGINEERING",
+      "startYear": 2015,
+      "endYear": 2017
+    }
+  ],
+  "projects": [
+    {
+      "name": "Hello Doctor",
+      "description": "a medical platform for reservations and saving patient records, with chat and share location options.",
+      "screenshots": [
+        "assets/projects/hd1.jpg",
+        "assets/projects/hd2.jpg",
+        "assets/projects/hd3.jpg",
+        "assets/projects/hd4.jpg",
+        "assets/projects/hd5.jpg",
+        "assets/projects/hd6.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Pusher",
+          "icon": {
+            "assetName": "assets/icons/live.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        },
+        {
+          "name": "Map Api (Live Share Location)",
+          "icon": {
+            "assetName": "assets/icons/map.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/us/app/hello-doctor-doctor/id6739985990",
+          "display": "App Store - Doctor App"
+        },
+        {
+          "url": "https://dashboard.hellodrapp.com/storage/Doctor%2028.apk",
+          "display": "Play Store - Doctor App"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/hello-doctor/id6739985385",
+          "display": "App Store - Patient App"
+        },
+        {
+          "url": "https://dashboard.hellodrapp.com/storage/Patient%2028.apk",
+          "display": "Play Store - Patient App"
+        }
+      ]
+    },
+    {
+      "name": "Rabhan",
+      "description": "a wholesale platform for sellers to place orders.",
+      "screenshots": [
+        "assets/projects/rb1.jpg",
+        "assets/projects/rb2.jpg",
+        "assets/projects/rb3.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Pusher",
+          "icon": {
+            "assetName": "assets/icons/live.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/us/app/%D8%B1%D8%A8%D8%AD%D8%A7%D9%86/id6740921054",
+          "display": "App Store"
+        }
+      ]
+    },
+    {
+      "name": "VVallet",
+      "description": "(Personal Project) Private accountant that help you track all the expenses and income across all accounts and can provide many reports. the app is highly customizable with themes and view options.",
+      "screenshots": [
+        "assets/projects/vv1.jpg",
+        "assets/projects/vv2.jpg",
+        "assets/projects/vv3.jpg",
+        "assets/projects/vv4.jpg",
+        "assets/projects/vv5.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Sqlite",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "#",
+          "display": "Download trial version"
+        }
+      ]
+    },
+    {
+      "name": "VitalFit",
+      "description": "Fitness app that allow the user to choose the best classes and trainer and choose the best plan and pay for it. Also, the app contain reel section that the trainers can post to the users to watch.",
+      "url": "https://gitlab.com/tonywaer1/vitalfit",
+      "icon": {
+        "assetName": "assets/icons/gitlab.svg",
+        "color": "0xffffffff"
+      },
+      "screenshots": [
+        "assets/projects/vf1.jpg",
+        "assets/projects/vf2.jpg",
+        "assets/projects/vf3.jpg",
+        "assets/projects/vf4.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        },
+        {
+          "name": "Mamo Payment",
+          "icon": {
+            "assetName": "assets/icons/payment.svg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Ed-Autism",
+      "description": "A supportive app for parents of children with autism, offering interactive activities to build social and cognitive skills. It also provides expert resources, progress tracking, and access to specialists.",
+      "url": "https://gitlab.com/tonywaer1/ed-autism",
+      "icon": {
+        "assetName": "assets/icons/gitlab.svg",
+        "color": "0xffffffff"
+      },
+      "screenshots": [
+        "assets/projects/ed1.jpg",
+        "assets/projects/ed2.jpg",
+        "assets/projects/ed3.jpg",
+        "assets/projects/ed4.jpg",
+        "assets/projects/ed5.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "Shobek Lobek Germany",
+      "description": "online store for everyday needs, with many ways of payment (Stripe, Paypal, Cash on delivery)",
+      "screenshots": [
+        "assets/projects/sl1.png",
+        "assets/projects/sl2.png",
+        "assets/projects/sl3.png",
+        "assets/projects/sl4.png",
+        "assets/projects/sl5.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        },
+        {
+          "name": "Stripe",
+          "icon": {
+            "assetName": "assets/icons/payment.svg"
+          }
+        },
+        {
+          "name": "Paypal",
+          "icon": {
+            "assetName": "assets/icons/paypal.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/de/app/shobek-lobek-deutschland/id1642567858",
+          "display": "App Store"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=de.insoftonline.shobek_lobek",
+          "display": "Play Store"
+        }
+      ]
+    },
+    {
+      "name": "S&M",
+      "description": "wholesale app for restaurants to buy what they need for their work",
+      "screenshots": [
+        "assets/projects/sm1.png",
+        "assets/projects/sm2.png",
+        "assets/projects/sm3.png",
+        "assets/projects/sm4.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/de/app/s-m-store/id6670686342",
+          "display": "App Store"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=de.insoftonline.sundm",
+          "display": "Play Store"
+        }
+      ]
+    },
+    {
+      "name": "POS",
+      "description": "point of sale system that works on tablets and can use a barcode scanner and thermal printer (Network, USB, Bluetooth), the app is highly customizable",
+      "screenshots": [
+        "assets/projects/pos1.jpg",
+        "assets/projects/pos2.jpg",
+        "assets/projects/pos3.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Thermal Printer Sdk",
+          "icon": {
+            "assetName": "assets/icons/sdk.svg"
+          }
+        },
+        {
+          "name": "SumUp Payment",
+          "icon": {
+            "assetName": "assets/icons/payment.svg"
+          }
+        },
+        {
+          "name": "Dual Screen",
+          "icon": {
+            "assetName": "assets/icons/screen.svg"
+          }
+        },
+        {
+          "name": "Sqlite",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=de.insoftonline.posapp",
+          "display": "Play Store"
+        }
+      ]
+    },
+    {
+      "name": "InSoft Screen",
+      "description": "app for Android TV that can open a webpage on fullscreen and on startup, you can control the app using the remote control and scan QR to type the URL from your phone",
+      "screenshots": [
+        "assets/projects/tv1.png",
+        "assets/projects/tv2.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Android TV",
+          "icon": {
+            "assetName": "assets/icons/screen.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=de.insoftonline.insoftscreen",
+          "display": "Play Store"
+        }
+      ]
+    },
+    {
+      "name": "Restaurant",
+      "description": "waiters application that helps them to create orders and print the order directly",
+      "screenshots": [
+        "assets/projects/res1.png",
+        "assets/projects/res2.png",
+        "assets/projects/res3.png",
+        "assets/projects/res4.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Thermal Printer Sdk",
+          "icon": {
+            "assetName": "assets/icons/sdk.svg"
+          }
+        },
+        {
+          "name": "Sqlite",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=de.insoftonline.restaurantapp",
+          "display": "Play Store"
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "code": "en",
+      "name": "English",
+      "nativeName": "English",
+      "icon": {
+        "assetName": "assets/icons/flags/united-states-of-america.svg"
+      }
+    }
+  ],
+  "present": "Present",
+  "portfolio": "Portfolio",
+  "homeSectionTitle": "Home",
+  "aboutSectionTitle": "About Me",
+  "aboutSectionTitleAlt": "About Me",
+  "experienceSectionTitle": "Experience",
+  "projectsSectionTitle": "Projects",
+  "educationsSectionTitle": "Education",
+  "resume": "Resume",
+  "downloadResume": "Download resume",
+  "openUrlError": "Could not open the url",
+  "unknownLanguageError": "Language unknown"
+}
