@@ -269,13 +269,13 @@
   "educations": [
     {
       "university": "Syrian Virtual University - Syria",
-      "description": "BACHELOR'S DEGREE\nIN INFORMATION TECHNOLOGY",
+      "description": "BACHELOR'S DEGREE IN INFORMATION TECHNOLOGY",
       "startYear": 2019,
       "endYear": 2023
     },
     {
       "university": "Technical Computer Collage - Damascus University",
-      "description": "DIPLOMA'S DEGREE\nIN SOFTWARE ENGINEERING",
+      "description": "DIPLOMA'S DEGREE IN SOFTWARE ENGINEERING",
       "startYear": 2015,
       "endYear": 2017
     }
