@@ -45,7 +45,7 @@
       "role": "Mobile App Developer",
       "company": "Freelance",
       "description": "As a freelance mobile app developer, I worked with clients across the Arab world, building custom Flutter apps for various sectors. Notable projects include Ed-Autism (Jordan), an educational app for children with autism; Manadeb (Saudi Arabia), a delivery management tool with map-based routing; VitalFit (UAE), a platform for booking sports sessions and viewing coach content; and HelloDr (Iraq), a medical platform with separate apps for patients and doctors. I also enhanced and maintained several other apps by adding features and fixing bugs.",
-      "startYear": 2025,
+      "startYear": 2024,
       "endYear": 2023,
       "isPresent": true,
       "technologies": [
@@ -95,9 +95,67 @@
     },
     {
       "role": "Mobile App Developer",
+      "company": "TechnoPlus - Syria",
+      "description": "Built consumer-focused mobile applications, including a ride-hailing app, a coupon platform offering location-based deals, and a service booking system. Also developed a chat feature with integrated voice and video calling to old project with many other upgrades.",
+      "isPresent": true,
+      "startYear": 2025,
+      "endYear": 2025,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        },
+        {
+          "name": "Laravel Api",
+          "icon": {
+            "assetName": "assets/icons/api.svg"
+          }
+        },
+        {
+          "name": "Google Maps",
+          "icon": {
+            "assetName": "assets/icons/map.svg"
+          }
+        },
+
+        {
+          "name": "Socket",
+          "icon": {
+            "assetName": "assets/icons/live.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/de/developer/fayez-tarboosh/id1538317002",
+          "display": "Apple App Store"
+        },
+        {
+          "url": "https://play.google.com/store/apps/developer?id=In+Soft+Online",
+          "display": "Google Play Store"
+        }
+      ]
+    },
+    {
+      "role": "Mobile App Developer",
       "company": "InSoftOnline - Germany",
       "description": "Developed a digital ecosystem for restaurants, including POS systems, self-service kiosks, and management dashboards, offering a smooth user experience with both real-time and offline functionality.",
-      "isPresent": true,
+      "isPresent": false,
       "startYear": 2022,
       "endYear": 2025,
       "technologies": [
@@ -379,6 +437,9 @@
       ],
       "links": [
         {
+          "url": "https://play.google.com/store/apps/details?id=com.rabhan.app",
+          "display": "Play Store"
+        }, {
           "url": "https://apps.apple.com/us/app/%D8%B1%D8%A8%D8%AD%D8%A7%D9%86/id6740921054",
           "display": "App Store"
         }
