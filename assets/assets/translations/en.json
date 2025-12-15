@@ -26,8 +26,8 @@
       }
     },
     {
-      "tooltip": "+963 934 938 016",
-      "url": "tel:+963934938016",
+      "tooltip": "+963 935 977 912",
+      "url": "tel:+963935977912",
       "icon": {
         "assetName": "assets/icons/call.svg"
       }
@@ -138,8 +138,7 @@
           }
         }
       ],
-      "links": [
-      ]
+      "links": []
     },
     {
       "role": "Mobile App Developer",
