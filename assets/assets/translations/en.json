@@ -138,7 +138,8 @@
           }
         }
       ],
-      "links": []
+      "links": [
+      ]
     },
     {
       "role": "Mobile App Developer",
@@ -430,6 +431,16 @@
             "assetName": "assets/icons/firebase.svg"
           }
         }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/us/app/kermalak-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id6754460657",
+          "display": "App Store"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakapp",
+          "display": "Play Store"
+        }
       ]
     },
     {
@@ -462,6 +473,16 @@
           "icon": {
             "assetName": "assets/icons/firebase.svg"
           }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/us/app/%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83-%D8%AA%D8%A7%D8%AC%D8%B1/id6754461966",
+          "display": "App Store"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakvendor",
+          "display": "Play Store"
         }
       ]
     },
@@ -506,7 +527,7 @@
     },
     {
       "name": "Al Hadaf",
-      "description": "a wholesale platform for sellers to place orders.",
+      "description": "a wholesale platform for sellers to place orders for their customer, and for customer to place their own orders.",
       "screenshots": [
         "assets/projects/hf1.jpg",
         "assets/projects/hf2.jpg",
@@ -538,6 +559,12 @@
           "icon": {
             "assetName": "assets/icons/firebase.svg"
           }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/us/app/%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%87%D8%AF%D9%81/id6738759227",
+          "display": "App Store"
         }
       ]
     },
@@ -604,6 +631,51 @@
       ]
     },
     {
+      "name": "Rabhan",
+      "description": "a wholesale platform for sellers to place orders for their customer, and for customer to place their own orders. The app contain chat feature for users with the providers.",
+      "screenshots": [
+        "assets/projects/rb1.jpg",
+        "assets/projects/rb2.jpg",
+        "assets/projects/rb3.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Pusher",
+          "icon": {
+            "assetName": "assets/icons/live.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=com.rabhan.app",
+          "display": "Play Store"
+        },
+        {
+          "url": "https://apps.apple.com/us/app/%D8%B1%D8%A8%D8%AD%D8%A7%D9%86/id6740921054",
+          "display": "App Store"
+        }
+      ]
+    },
+    {
       "name": "VitalFit",
       "description": "Fitness app that allow the user to choose the best classes and trainer and choose the best plan and pay for it. Also, the app contain reel section that the trainers can post to the users to watch.",
       "url": "https://gitlab.com/tonywaer1/vitalfit",
@@ -646,7 +718,7 @@
     },
     {
       "name": "Ed-Autism",
-      "description": "A supportive app for parents of children with autism, offering interactive activities to build social and cognitive skills. It also provides expert resources, progress tracking, and access to specialists.",
+      "description": "A supportive app for parents of children with autism, offering interactive activities to build social and cognitive skills. It also provides expert resources, progress tracking, and access to specialists. (The code is for version 1 of the app '2022')",
       "url": "https://gitlab.com/tonywaer1/ed-autism",
       "icon": {
         "assetName": "assets/icons/gitlab.svg",
@@ -657,7 +729,8 @@
         "assets/projects/ed2.jpg",
         "assets/projects/ed3.jpg",
         "assets/projects/ed4.jpg",
-        "assets/projects/ed5.jpg"
+        "assets/projects/ed5.jpg",
+        "assets/projects/ed6.jpg"
       ],
       "technologies": [
         {
@@ -677,6 +750,11 @@
           "icon": {
             "assetName": "assets/icons/firebase.svg"
           }
+        }],
+      "links": [
+        {
+          "url": "https://drive.google.com/drive/folders/1SmOQAhMukcEGte5MCJyqqUOUUpMqkxHO?usp=sharing",
+          "display": "New Version (APK)"
         }
       ]
     },
