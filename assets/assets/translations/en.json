@@ -328,10 +328,10 @@
       "endYear": 2017
     }
   ],
-  "projects": [
+  "privateProjects": [
     {
       "name": "Eallet",
-      "description": "(Personal Project) Private accountant that help you track all the expenses and income across all accounts and can provide many reports. the app is highly customizable with themes and view options with reminders that can be scheduled.",
+      "description": "Private accountant that help you track all the expenses and income across all accounts and can provide many reports. the app is highly customizable with themes and view options with reminders that can be scheduled.",
       "screenshots": [
         "assets/projects/vv1.jpg",
         "assets/projects/vv2.jpg",
@@ -365,10 +365,49 @@
       "links": [
         {
           "url": "https://drive.google.com/file/d/1pd_aw105NcvgsXzyMwG_ulP77X4MI8fA/view?usp=sharing",
-          "display": "Download trial version"
+          "display": "Download APK"
         }
       ]
     },
+    {
+      "name": "SYP",
+      "description": "Syrian banknote explainer money help counter and old to new currency converter with live exchange rate and gold prices with conversion calculator",
+      "url": "https://gitlab.com/tonywaer1/new_lira",
+      "screenshots": [
+        "assets/projects/sy1.jpg",
+        "assets/projects/sy2.jpg",
+        "assets/projects/sy3.jpg",
+        "assets/projects/sy4.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Shorebird",
+          "icon": {
+            "assetName": "assets/icons/Shorebird.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://drive.google.com/drive/folders/1t04esYdQEjTK3OYv4N-VbE9HOSDEIx4M?usp=sharing",
+          "display": "Download trial version"
+        }
+      ]
+    }
+  ],
+  "projects": [
     {
       "name": "Drivo",
       "description": "A car-selling platform that allows users to list their vehicles with over 30 detailed specifications to provide complete and accurate information. Buyers can easily search and filter through posted cars, while sellers can request to open their own car gallery to showcase multiple vehicles in one place.",
@@ -750,7 +789,8 @@
           "icon": {
             "assetName": "assets/icons/firebase.svg"
           }
-        }],
+        }
+      ],
       "links": [
         {
           "url": "https://drive.google.com/drive/folders/1SmOQAhMukcEGte5MCJyqqUOUUpMqkxHO?usp=sharing",
@@ -897,6 +937,88 @@
           "display": "Play Store"
         }
       ]
+    },
+    {
+      "name": "S&M",
+      "description": "wholesale app for restaurants to buy what they need for their work",
+      "screenshots": [
+        "assets/projects/sm1.png",
+        "assets/projects/sm2.png",
+        "assets/projects/sm3.png",
+        "assets/projects/sm4.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://apps.apple.com/de/app/s-m-store/id6670686342",
+          "display": "App Store"
+        },
+        {
+          "url": "https://play.google.com/store/apps/details?id=de.insoftonline.sundm",
+          "display": "Play Store"
+        }
+      ]
+    },
+    {
+      "name": "Restaurant",
+      "description": "waiters application that helps them to create orders and print the order directly",
+      "screenshots": [
+        "assets/projects/res1.png",
+        "assets/projects/res2.png",
+        "assets/projects/res3.png",
+        "assets/projects/res4.png"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Thermal Printer Sdk",
+          "icon": {
+            "assetName": "assets/icons/sdk.svg"
+          }
+        },
+        {
+          "name": "Sqlite",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://play.google.com/store/apps/details?id=de.insoftonline.restaurantapp",
+          "display": "Play Store"
+        }
+      ]
     }
   ],
   "languages": [
@@ -916,6 +1038,7 @@
   "aboutSectionTitleAlt": "About Me",
   "experienceSectionTitle": "Experience",
   "projectsSectionTitle": "Projects",
+  "privateProjectsSectionTitle": "Private Projects",
   "educationsSectionTitle": "Education",
   "resume": "Resume",
   "downloadResume": "Download resume",
