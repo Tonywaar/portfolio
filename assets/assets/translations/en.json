@@ -309,7 +309,7 @@
     {
       "role": "Mobile App Developer",
       "company": "Freelance",
-      "description": "As a freelance mobile app developer, I worked with clients across the Arab world, building custom Flutter apps for various sectors. Notable projects include Ed-Autism (Jordan), an educational app for children with autism; Manadeb (Saudi Arabia), a delivery management tool with map-based routing; VitalFit (UAE), a platform for booking sports sessions and viewing coach content; and HelloDr (Iraq), a medical platform with separate apps for patients and doctors. I also enhanced and maintained several other apps by adding features and fixing bugs.",
+      "description": "As a freelance mobile app developer, I worked with clients across the Arab world, building custom Flutter apps for various sectors.\n\nNotable projects include:\n• Ed-Autism (Jordan), an educational app for children with autism.\n• Manadeb (Saudi Arabia), a delivery management tool with map-based routing.\n• VitalFit (UAE), a platform for booking sports sessions and viewing coach content.\n• HelloDr (Iraq), a medical platform with separate apps for patients and doctors.\n\nI also enhanced and maintained several other apps by adding features and fixing bugs.",
       "startYear": 2024,
       "endYear": 2023,
       "isPresent": true,
@@ -361,7 +361,7 @@
     {
       "role": "Mobile App Developer",
       "company": "TechnoPlus - Syria",
-      "description": "Built consumer-focused mobile applications, including a ride-hailing app, a coupon platform offering location-based deals, and a service booking system. Also developed a chat feature with integrated voice and video calling to old project with many other upgrades.",
+      "description": "Built consumer-focused mobile applications, including a ride-hailing app, a coupon platform offering location-based deals, and a service booking system.\n\nAlso developed a chat feature with integrated voice and video calling to old project with many other upgrades.",
       "isPresent": true,
       "startYear": 2025,
       "endYear": 2025,
@@ -409,7 +409,7 @@
     {
       "role": "Mobile App Developer",
       "company": "InSoftOnline - Germany",
-      "description": "Developed a digital ecosystem for restaurants, including POS systems, self-service kiosks, and management dashboards, offering a smooth user experience with both real-time and offline functionality.",
+      "description": "Developed a digital ecosystem for restaurants, including POS systems, self-service kiosks, and management dashboards,\n\noffering a smooth user experience with both real-time and offline functionality.",
       "isPresent": false,
       "startYear": 2022,
       "endYear": 2025,
@@ -471,7 +471,7 @@
     {
       "role": "Web Developer",
       "company": "InSoftOnline - Germany",
-      "description": "I worked full-time as a Web Developer and IT Support Specialist, assisting over 50 clients with our POS and sales systems. I developed and designed more than 15 WordPress websites and handled company-wide technical support. My responsibilities included remote IT support via AnyDesk, setting up and maintaining Linux (Ubuntu) servers, designing websites and online stores, and creating a wide range of graphic materials such as logos, brochures, packaging, promotional videos, and social media content. I also contributed to UI/UX design for mobile and web applications developed by the company.",
+      "description": "I worked full-time as a Web Developer and IT Support Specialist, assisting over 50 clients with our POS and sales systems.\n\nI developed and designed more than 15 WordPress websites and handled company-wide technical support.\n\nMy responsibilities included remote IT support via AnyDesk, setting up and maintaining Linux (Ubuntu) servers, designing websites and online stores, and creating a wide range of graphic materials such as logos, brochures, packaging, promotional videos, and social media content.\n\nI also contributed to UI/UX design for mobile and web applications developed by the company.",
       "startYear": 2020,
       "isPresent": false,
       "endYear": 2022,
@@ -541,7 +541,7 @@
     {
       "role": "IT Supervisor",
       "company": "United Insurance Company - Syria",
-      "description": "I worked as an IT Supervisor at United Insurance Company, providing full IT support across the main office and branch locations. My responsibilities included remote and on-site support via AnyDesk, training employees on the company’s insurance and internal systems, and maintaining all hardware and software infrastructure. I played a key role in upgrading company servers (Windows Server environments), developing a new corporate website, and ensuring the stability of the internal network and all connected equipment.",
+      "description": "I worked as an IT Supervisor at United Insurance Company, providing full IT support across the main office and branch locations.\n\nMy responsibilities included remote and on-site support via AnyDesk, training employees on the company’s insurance and internal systems, and maintaining all hardware and software infrastructure.\n\nI played a key role in upgrading company servers (Windows Server environments), developing a new corporate website, and ensuring the stability of the internal network and all connected equipment.",
       "isPresent": false,
       "startYear": 2018,
       "endYear": 2020,
