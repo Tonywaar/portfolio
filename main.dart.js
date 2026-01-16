@@ -106544,7 +106544,7 @@ B.Zg=s([B.a9N],t.v)
 B.a6x=new A.n(B.bT,["Eallet","Private accountant that help you track all the expenses and income across all accounts and can provide many reports. the app is highly customizable with themes and view options with reminders that can be scheduled.",B.YZ,B.Vh,B.Zg],t.M)
 B.abl={name:0,description:1,url:2,screenshots:3,technologies:4,links:5}
 B.a0F=s(["assets/projects/sy1.jpg","assets/projects/sy2.jpg","assets/projects/sy3.jpg","assets/projects/sy4.jpg"],t.s)
-B.a93=new A.n(B.al,["assets/icons/Shorebird.svg"],t.w)
+B.a93=new A.n(B.al,["assets/icons/shorebird.svg"],t.w)
 B.a8G=new A.n(B.ae,["Shorebird",B.a93],t.M)
 B.V3=s([B.bC,B.bB,B.a8G],t.J)
 B.a9D=new A.n(B.ar,["https://drive.google.com/drive/folders/1t04esYdQEjTK3OYv4N-VbE9HOSDEIx4M?usp=sharing","Download APK"],t.w)
