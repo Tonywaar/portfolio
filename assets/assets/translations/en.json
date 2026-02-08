@@ -459,10 +459,16 @@
       ],
       "links": [
         {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
           "url": "https://apps.apple.com/de/developer/fayez-tarboosh/id1538317002",
           "display": "Apple App Store"
         },
         {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://play.google.com/store/apps/developer?id=In+Soft+Online",
           "display": "Google Play Store"
         }
@@ -738,10 +744,16 @@
       ],
       "links": [
         {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
           "url": "https://apps.apple.com/us/app/kermalak-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id6754460657",
           "display": "App Store"
         },
         {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakapp",
           "display": "Play Store"
         }
@@ -781,10 +793,16 @@
       ],
       "links": [
         {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
           "url": "https://apps.apple.com/us/app/%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83-%D8%AA%D8%A7%D8%AC%D8%B1/id6754461966",
           "display": "App Store"
         },
         {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakvendor",
           "display": "Play Store"
         }
@@ -830,6 +848,9 @@
       ],
       "links": [
         {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://play.google.com/store/apps/details?id=dev.technoplus.yallabooking&hl=en&pli=1",
           "display": "Play Store"
         }
@@ -873,6 +894,9 @@
       ],
       "links": [
         {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
           "url": "https://apps.apple.com/us/app/%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%87%D8%AF%D9%81/id6738759227",
           "display": "App Store"
         }
@@ -923,18 +947,30 @@
       ],
       "links": [
         {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
           "url": "https://apps.apple.com/us/app/hello-doctor-doctor/id6739985990",
           "display": "App Store - Doctor App"
         },
         {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://dashboard.hellodrapp.com/storage/Doctor%2028.apk",
           "display": "Play Store - Doctor App"
         },
         {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
           "url": "https://apps.apple.com/us/app/hello-doctor/id6739985385",
           "display": "App Store - Patient App"
         },
         {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://dashboard.hellodrapp.com/storage/Patient%2028.apk",
           "display": "Play Store - Patient App"
         }
@@ -976,12 +1012,18 @@
       ],
       "links": [
         {
-          "url": "https://play.google.com/store/apps/details?id=com.rabhan.app",
-          "display": "Play Store"
-        },
-        {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
           "url": "https://apps.apple.com/us/app/%D8%B1%D8%A8%D8%AD%D8%A7%D9%86/id6740921054",
           "display": "App Store"
+        },
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
+          "url": "https://play.google.com/store/apps/details?id=com.rabhan.app",
+          "display": "Play Store"
         }
       ]
     },
@@ -1113,10 +1155,16 @@
       ],
       "links": [
         {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
           "url": "https://apps.apple.com/de/app/shobek-lobek-deutschland/id1642567858",
           "display": "App Store"
         },
         {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://play.google.com/store/apps/details?id=de.insoftonline.shobek_lobek",
           "display": "Play Store"
         }
@@ -1170,6 +1218,9 @@
       ],
       "links": [
         {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://play.google.com/store/apps/details?id=de.insoftonline.posapp",
           "display": "Play Store"
         }
@@ -1204,6 +1255,9 @@
       ],
       "links": [
         {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://play.google.com/store/apps/details?id=de.insoftonline.insoftscreen",
           "display": "Play Store"
         }
@@ -1240,10 +1294,16 @@
       ],
       "links": [
         {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
           "url": "https://apps.apple.com/de/app/s-m-store/id6670686342",
           "display": "App Store"
         },
         {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://play.google.com/store/apps/details?id=de.insoftonline.sundm",
           "display": "Play Store"
         }
@@ -1286,6 +1346,9 @@
       ],
       "links": [
         {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://play.google.com/store/apps/details?id=de.insoftonline.restaurantapp",
           "display": "Play Store"
         }
