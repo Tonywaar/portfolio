@@ -634,9 +634,11 @@
         }
       ],
       "links": [
-        {
-          "url": "https://drive.google.com/file/d/1pd_aw105NcvgsXzyMwG_ulP77X4MI8fA/view?usp=sharing",
-          "display": "Download trial version"
+        {   "icon": {
+          "assetName": "assets/icons/google-play.svg"
+        },
+          "url": "https://play.google.com/store/apps/details?id=dev.tonywaar.eallet",
+          "display": "Google Play Store"
         }
       ]
     },
@@ -671,9 +673,11 @@
         }
       ],
       "links": [
-        {
-          "url": "https://drive.google.com/drive/folders/1t04esYdQEjTK3OYv4N-VbE9HOSDEIx4M?usp=sharing",
-          "display": "Download APK"
+        {   "icon": {
+          "assetName": "assets/icons/google-play.svg"
+        },
+          "url": "https://play.google.com/store/apps/details?id=dev.tonywaar.new_lira",
+          "display": "Google Play Store"
         }
       ]
     }
