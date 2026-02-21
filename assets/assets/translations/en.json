@@ -36,266 +36,23 @@
   "technicalSkills": [
     {
       "type": "Mobile & Cross-Platform",
-      "skills": [
-        {
-          "name": "Flutter",
-          "percentage": 95
-        },
-        {
-          "name": "Dart",
-          "percentage": 95
-        },
-        {
-          "name": "Android Development",
-          "percentage": 85
-        },
-        {
-          "name": "iOS Development",
-          "percentage": 65
-        },
-        {
-          "name": "GetX, Bloc",
-          "percentage": 90
-        },
-        {
-          "name": "Clean Architecture",
-          "percentage": 85
-        },
-        {
-          "name": "REST API Integration",
-          "percentage": 95
-        },
-        {
-          "name": "Firebase",
-          "percentage": 85
-        },
-        {
-          "name": "Local Storage (SQLite, Hive)",
-          "percentage": 85
-        },
-        {
-          "name": "App Store Deployment",
-          "percentage": 85
-        },
-        {
-          "name": "Google Play Deployment",
-          "percentage": 90
-        },
-        {
-          "name": "OTA Updates (Shorebird)",
-          "percentage": 80
-        }
-      ]
+      "description": "Flutter, Dart, Android, iOS, GetX/BLoC, Clean Architecture, REST APIs, Firebase, Local Storage (SQLite/Isar/GetStorage), App Deployment, OTA Updates"
     },
     {
-      "type": "UI Implementation",
-      "skills": [
-        {
-          "name": "Responsive Layouts",
-          "percentage": 85
-        },
-        {
-          "name": "Native Designs",
-          "percentage": 95
-        },
-        {
-          "name": "Following Designs",
-          "percentage": 100
-        },
-        {
-          "name": "Custom Animations",
-          "percentage": 85
-        },
-        {
-          "name": "Reusable Components",
-          "percentage": 95
-        },
-        {
-          "name": "Design Systems",
-          "percentage": 80
-        },
-        {
-          "name": "RTL / LTR Support",
-          "percentage": 95
-        },
-        {
-          "name": "Theming & Dark Mode",
-          "percentage": 90
-        },
-        {
-          "name": "Accessibility Basics",
-          "percentage": 75
-        }
-      ]
-    },
-    {
-      "type": "Design & UI/UX",
-      "skills": [
-        {
-          "name": "UI/UX Design Principles",
-          "percentage": 85
-        },
-        {
-          "name": "User Flows & Wireframing",
-          "percentage": 80
-        },
-        {
-          "name": "Figma",
-          "percentage": 90
-        },
-        {
-          "name": "Adobe Illustrator",
-          "percentage": 80
-        },
-        {
-          "name": "Adobe Photoshop",
-          "percentage": 80
-        },
-        {
-          "name": "After Effects (Basic Animations)",
-          "percentage": 70
-        },
-        {
-          "name": "Prototyping",
-          "percentage": 85
-        }
-      ]
+      "type": "UI Implementation & Design",
+      "description": "Responsive Layouts, Native Designs, Custom Animations, Reusable Components, Design Systems, RTL/LTR, Theming/Dark Mode, Accessibility, Figma, Adobe Illustrator/Photoshop, Prototyping"
     },
     {
       "type": "Hardware & POS Integration",
-      "skills": [
-        {
-          "name": "Bluetooth Communication",
-          "percentage": 90
-        },
-        {
-          "name": "Thermal Printers",
-          "percentage": 95
-        },
-        {
-          "name": "Sunmi POS Devices",
-          "percentage": 95
-        },
-        {
-          "name": "Payment Terminals",
-          "percentage": 90
-        },
-        {
-          "name": "SumUp Integration",
-          "percentage": 90
-        },
-        {
-          "name": "ZVT Protocol",
-          "percentage": 85
-        },
-        {
-          "name": "Barcode / QR Scanners",
-          "percentage": 90
-        }
-      ]
+      "description": "Bluetooth, Thermal Printers, Sunmi POS, Payment Terminals, SumUp, ZVT Protocol, Barcode/QR Scanners"
     },
     {
-      "type": "Systems",
-      "skills": [
-        {
-          "name": "Linux (Ubuntu) Servers",
-          "percentage": 85
-        },
-        {
-          "name": "Windows Server Basics",
-          "percentage": 75
-        },
-        {
-          "name": "TCP/IP Networking",
-          "percentage": 75
-        },
-        {
-          "name": "Device Configuration",
-          "percentage": 85
-        },
-        {
-          "name": "System Maintenance",
-          "percentage": 85
-        },
-        {
-          "name": "Data Backup Procedures",
-          "percentage": 80
-        }
-      ]
-    },
-    {
-      "type": "Tools & Workflow",
-      "skills": [
-        {
-          "name": "Git",
-          "percentage": 90
-        },
-        {
-          "name": "GitHub / GitLab",
-          "percentage": 90
-        },
-        {
-          "name": "VS Code",
-          "percentage": 95
-        },
-        {
-          "name": "Android Studio",
-          "percentage": 95
-        },
-        {
-          "name": "Xcode",
-          "percentage": 80
-        },
-        {
-          "name": "Postman",
-          "percentage": 90
-        },
-        {
-          "name": "CI/CD Basics",
-          "percentage": 70
-        },
-        {
-          "name": "AnyDesk (Remote Support)",
-          "percentage": 90
-        }
-      ]
+      "type": "Systems & Tools",
+      "description": "Linux & Windows Servers, Networking, Device Configuration, Git, GitHub/GitLab, VS Code, Android Studio, Xcode, Postman, CI/CD Basics, Remote Support (AnyDesk)"
     },
     {
       "type": "Professional Skills",
-      "skills": [
-        {
-          "name": "Problem Solving",
-          "percentage": 95
-        },
-        {
-          "name": "Debugging",
-          "percentage": 95
-        },
-        {
-          "name": "Client Communication",
-          "percentage": 90
-        },
-        {
-          "name": "Requirement Analysis",
-          "percentage": 85
-        },
-        {
-          "name": "Team Collaboration",
-          "percentage": 90
-        },
-        {
-          "name": "Technical Documentation",
-          "percentage": 80
-        },
-        {
-          "name": "Time Management",
-          "percentage": 90
-        },
-        {
-          "name": "Independent Work",
-          "percentage": 95
-        }
-      ]
+      "description": "Problem Solving, Debugging, Client Communication, Requirement Analysis, Team Collaboration, Documentation, Time Management, Independent Work"
     }
   ],
   "resumes": [
@@ -304,7 +61,7 @@
       "url": "https://drive.google.com/file/d/1gkCguiCNpN3kQPh0Vchy36Xq346hWpJh/view?usp=sharing"
     }
   ],
-  "aboutDescription": "Hi, I'm Tony Waar, a mobile application developer with a strong background in IT and software engineering. I specialize in Flutter and have built a wide range of applications, from e-commerce and POS systems to medical and delivery platforms. Passionate about crafting clean, efficient code, I combine technical skills with real-world experience to create scalable and user-friendly solutions. I’m always eager to take on challenging projects that push my abilities and make a real impact.",
+  "aboutDescription": "Senior Flutter Developer with 6+ years of experience building scalable production apps used across Germany, UAE, Saudi Arabia, and Iraq.\nSpecialized in POS systems, medical platforms, booking apps, payment integrations, and offline-first architectures.\nDelivered 20+ production apps published on App Store & Google Play.",
   "experiences": [
     {
       "role": "Mobile App Developer",
@@ -634,9 +391,10 @@
         }
       ],
       "links": [
-        {   "icon": {
-          "assetName": "assets/icons/google-play.svg"
-        },
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://play.google.com/store/apps/details?id=dev.tonywaar.eallet",
           "display": "Google Play Store"
         }
@@ -673,9 +431,10 @@
         }
       ],
       "links": [
-        {   "icon": {
-          "assetName": "assets/icons/google-play.svg"
-        },
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
           "url": "https://play.google.com/store/apps/details?id=dev.tonywaar.new_lira",
           "display": "Google Play Store"
         }
