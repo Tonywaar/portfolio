@@ -356,10 +356,18 @@
       "endYear": 2017
     }
   ],
-  "privateProjects": [
+  "featuredProjects": [
     {
       "name": "Eallet",
-      "description": "Private accountant that help you track all the expenses and income across all accounts and can provide many reports. the app is highly customizable with themes and view options with reminders that can be scheduled.",
+      "tagline": "Personal finance manager with advanced reporting & full customization.",
+      "description": "Eallet is a highly customizable personal finance application designed to track expenses and income across multiple accounts. The app provides detailed analytical reports, smart reminders, and flexible themes tailored to different user preferences.",
+      "keyFeatures": [
+        "Multi-account expense & income tracking",
+        "Advanced financial reports",
+        "Scheduled reminders",
+        "Theme & UI customization",
+        "Offline-first architecture"
+      ],
       "screenshots": [
         "assets/projects/vv1.jpg",
         "assets/projects/vv2.jpg",
@@ -401,273 +409,16 @@
       ]
     },
     {
-      "name": "SYP",
-      "description": "Syrian banknote explainer money help counter and old to new currency converter with live exchange rate and gold prices with conversion calculator",
-      "url": "https://gitlab.com/tonywaer1/new_lira",
-      "screenshots": [
-        "assets/projects/sy1.jpg",
-        "assets/projects/sy2.jpg",
-        "assets/projects/sy3.jpg",
-        "assets/projects/sy4.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Shorebird",
-          "icon": {
-            "assetName": "assets/icons/shorebird.svg"
-          }
-        }
-      ],
-      "links": [
-        {
-          "icon": {
-            "assetName": "assets/icons/google-play.svg"
-          },
-          "url": "https://play.google.com/store/apps/details?id=dev.tonywaar.new_lira",
-          "display": "Google Play Store"
-        }
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Drivo",
-      "description": "A car-selling platform that allows users to list their vehicles with over 30 detailed specifications to provide complete and accurate information. Buyers can easily search and filter through posted cars, while sellers can request to open their own car gallery to showcase multiple vehicles in one place.",
-      "screenshots": [
-        "assets/projects/dr1.jpg",
-        "assets/projects/dr2.jpg",
-        "assets/projects/dr3.jpg",
-        "assets/projects/dr4.jpg",
-        "assets/projects/dr5.jpg",
-        "assets/projects/dr6.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Firebase",
-          "icon": {
-            "assetName": "assets/icons/firebase.svg"
-          }
-        }
-      ]
-    },
-    {
-      "name": "Kermalak - User",
-      "description": "An app that allows users to discover nearby places, explore their latest offers, and apply discounts directly when visiting. Users can also share offers with friends, making it easier to enjoy deals together.",
-      "screenshots": [
-        "assets/projects/ka1.jpg",
-        "assets/projects/ka2.jpg",
-        "assets/projects/ka3.jpg",
-        "assets/projects/ka4.jpg",
-        "assets/projects/ka5.jpg",
-        "assets/projects/ka6.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Firebase",
-          "icon": {
-            "assetName": "assets/icons/firebase.svg"
-          }
-        }
-      ],
-      "links": [
-        {
-          "icon": {
-            "assetName": "assets/icons/app-store.svg"
-          },
-          "url": "https://apps.apple.com/us/app/kermalak-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id6754460657",
-          "display": "App Store"
-        },
-        {
-          "icon": {
-            "assetName": "assets/icons/google-play.svg"
-          },
-          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakapp",
-          "display": "Play Store"
-        }
-      ]
-    },
-    {
-      "name": "Kermalak - Vendor",
-      "description": "A companion platform for restaurants that enables them to create and manage detailed coupons for users to discover and redeem. The app features a comprehensive, step-by-step coupon creation wizard with extensive customization options. Restaurant owners can track coupon performance through detailed usage statistics, earn points based on engagement, and redeem those points for rewards.",
-      "screenshots": [
-        "assets/projects/kv1.jpg",
-        "assets/projects/kv2.jpg",
-        "assets/projects/kv3.jpg",
-        "assets/projects/kv4.jpg",
-        "assets/projects/kv5.jpg",
-        "assets/projects/kv6.jpg",
-        "assets/projects/kv7.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Firebase",
-          "icon": {
-            "assetName": "assets/icons/firebase.svg"
-          }
-        }
-      ],
-      "links": [
-        {
-          "icon": {
-            "assetName": "assets/icons/app-store.svg"
-          },
-          "url": "https://apps.apple.com/us/app/%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83-%D8%AA%D8%A7%D8%AC%D8%B1/id6754461966",
-          "display": "App Store"
-        },
-        {
-          "icon": {
-            "assetName": "assets/icons/google-play.svg"
-          },
-          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakvendor",
-          "display": "Play Store"
-        }
-      ]
-    },
-    {
-      "name": "Yalla Booking",
-      "description": "A booking platform that lets users easily reserve services at various places while earning reward points for their activities. Points can be redeemed for discounts, and users can enjoy an interactive spin wheel feature to win exciting prizes.",
-      "screenshots": [
-        "assets/projects/yb1.jpg",
-        "assets/projects/yb2.jpg",
-        "assets/projects/yb3.jpg",
-        "assets/projects/yb4.jpg",
-        "assets/projects/yb5.jpg",
-        "assets/projects/yb6.jpg",
-        "assets/projects/yb7.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Pusher",
-          "icon": {
-            "assetName": "assets/icons/live.svg"
-          }
-        },
-        {
-          "name": "Firebase",
-          "icon": {
-            "assetName": "assets/icons/firebase.svg"
-          }
-        }
-      ],
-      "links": [
-        {
-          "icon": {
-            "assetName": "assets/icons/google-play.svg"
-          },
-          "url": "https://play.google.com/store/apps/details?id=dev.technoplus.yallabooking&hl=en&pli=1",
-          "display": "Play Store"
-        }
-      ]
-    },
-    {
-      "name": "Al Hadaf",
-      "description": "a wholesale platform for sellers to place orders for their customer, and for customer to place their own orders.",
-      "screenshots": [
-        "assets/projects/hf1.jpg",
-        "assets/projects/hf2.jpg",
-        "assets/projects/hf3.jpg",
-        "assets/projects/hf4.jpg",
-        "assets/projects/hf5.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Pusher",
-          "icon": {
-            "assetName": "assets/icons/live.svg"
-          }
-        },
-        {
-          "name": "Firebase",
-          "icon": {
-            "assetName": "assets/icons/firebase.svg"
-          }
-        }
-      ],
-      "links": [
-        {
-          "icon": {
-            "assetName": "assets/icons/app-store.svg"
-          },
-          "url": "https://apps.apple.com/us/app/%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%87%D8%AF%D9%81/id6738759227",
-          "display": "App Store"
-        }
-      ]
-    },
-    {
       "name": "Hello Doctor",
-      "description": "a medical platform for reservations and saving patient records, with chat and share location options.",
+      "tagline": "Medical reservation & patient record management system.",
+      "description": "A healthcare platform consisting of separate Doctor and Patient applications. Features include appointment scheduling, secure chat, patient record storage, and live location sharing.",
+      "keyFeatures": [
+        "Built two independent Flutter apps sharing a synchronized backend architecture",
+        "Implemented real-time chat restricted to confirmed appointments",
+        "Developed continuous live-location tracking for doctor home visits using Maps API",
+        "Designed appointment lifecycle logic (request → confirm → active → completed)",
+        "Integrated role-based access control for doctors and patients"
+      ],
       "screenshots": [
         "assets/projects/hd1.jpg",
         "assets/projects/hd2.jpg",
@@ -740,7 +491,428 @@
       ]
     },
     {
+      "name": "POS",
+      "tagline": "Tablet-based POS with multi-printer & dual-screen support.",
+      "description": "A highly customizable point-of-sale system designed for tablet environments. Supports barcode scanners, thermal printers (USB, Network, Bluetooth), dual-screen operation, and integrated SumUp payment processing.",
+      "keyFeatures": [
+        "Integrated USB, Bluetooth, and Network thermal printers",
+        "Implemented SumUp payment terminal integration & ZVT protocol communication",
+        "Built dual-screen architecture (merchant screen + customer display)",
+        "Designed offline-first cart persistence using local database (SQLite)",
+        "Generated government-compliant financial reports aligned with German fiscal standards",
+        "Supported barcode scanning & multilingual receipt printing"
+      ],
+      "screenshots": [
+        "assets/projects/pos1.jpg",
+        "assets/projects/pos2.jpg",
+        "assets/projects/pos3.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Thermal Printer Sdk",
+          "icon": {
+            "assetName": "assets/icons/sdk.svg"
+          }
+        },
+        {
+          "name": "SumUp Payment",
+          "icon": {
+            "assetName": "assets/icons/payment.svg"
+          }
+        },
+        {
+          "name": "Dual Screen",
+          "icon": {
+            "assetName": "assets/icons/screen.svg"
+          }
+        },
+        {
+          "name": "Sqlite",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
+          "url": "https://play.google.com/store/apps/details?id=de.insoftonline.posapp",
+          "display": "Play Store"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Drivo",
+      "tagline": "Advanced car marketplace with 30+ vehicle specifications.",
+      "description": "Drivo is a full-featured automotive marketplace allowing sellers to list vehicles with over 30 structured specifications. Buyers can filter, search, and compare listings, while dealers can manage dedicated galleries for multiple vehicles.",
+      "keyFeatures": [
+        "Structured vehicle listing system",
+        "Advanced filtering & search",
+        "Multi-vehicle dealer galleries",
+        "Real-time data synchronization"
+      ],
+      "screenshots": [
+        "assets/projects/dr1.jpg",
+        "assets/projects/dr2.jpg",
+        "assets/projects/dr3.jpg",
+        "assets/projects/dr4.jpg",
+        "assets/projects/dr5.jpg",
+        "assets/projects/dr6.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ]
+    },
+    {
+      "name": "SYP",
+      "tagline": "Syrian currency explainer with live exchange & gold tracking.",
+      "description": "An educational and utility application designed to help users understand Syrian banknotes, calculate currency conversions, and track live exchange rates and gold prices with real-time updates.",
+      "keyFeatures": [
+        "OTA update implemented using shorebird service",
+        "Banknote identification & explanation",
+        "Old-to-new currency converter",
+        "Live exchange rate updates",
+        "Gold price tracking",
+        "Integrated calculator"
+      ],
+      "screenshots": [
+        "assets/projects/sy1.jpg",
+        "assets/projects/sy2.jpg",
+        "assets/projects/sy3.jpg",
+        "assets/projects/sy4.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Shorebird",
+          "icon": {
+            "assetName": "assets/icons/shorebird.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
+          "url": "https://play.google.com/store/apps/details?id=dev.tonywaar.new_lira",
+          "display": "Google Play Store"
+        },
+        {
+          "icon": {
+            "assetName": "assets/icons/gitlab.svg"
+          },
+          "url": "https://gitlab.com/tonywaer1/new_lira",
+          "display": "Source Code"
+        }
+      ]
+    },
+    {
+      "name": "Ed-Autism",
+      "tagline": "Interactive learning app for children with autism (250+ structured content elements).",
+      "description": "A specialized educational platform built to support children with autism through structured, interactive learning modules. The app contains 250+ categorized content elements targeting social behavior, communication, and cognitive development. It includes parental progress tracking, modular content management, and guided expert resources. (Version 1 – 2022).",
+      "keyFeatures": [
+        "4 game mechanics across 7 learning categories",
+        "Audio-visual interactive exercises",
+        "Structured content architecture (250+ items)",
+        "Progress tracking system"
+      ],
+      "screenshots": [
+        "assets/projects/ed1.jpg",
+        "assets/projects/ed2.jpg",
+        "assets/projects/ed3.jpg",
+        "assets/projects/ed4.jpg",
+        "assets/projects/ed5.jpg",
+        "assets/projects/ed6.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "url": "https://drive.google.com/drive/folders/1SmOQAhMukcEGte5MCJyqqUOUUpMqkxHO?usp=sharing",
+          "display": "New Version (APK)"
+        },
+        {
+          "icon": {
+            "assetName": "assets/icons/gitlab.svg"
+          },
+          "url": "https://gitlab.com/tonywaer1/ed-autism",
+          "display": "Source Code (V1)"
+        }
+      ]
+    },
+    {
+      "name": "Kermalak - User",
+      "tagline": "Location-based discount discovery platform.",
+      "description": "A consumer-facing platform that enables users to explore nearby offers, redeem discounts on-site, and share deals with friends. Built with scalable Firebase backend architecture.",
+      "keyFeatures": [
+        "Nearby offer discovery",
+        "Instant coupon redemption",
+        "Offer sharing (In-App or using external link 'deeplink'",
+        "Real-time updates"
+      ],
+      "screenshots": [
+        "assets/projects/ka1.jpg",
+        "assets/projects/ka2.jpg",
+        "assets/projects/ka3.jpg",
+        "assets/projects/ka4.jpg",
+        "assets/projects/ka5.jpg",
+        "assets/projects/ka6.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
+          "url": "https://apps.apple.com/us/app/kermalak-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id6754460657",
+          "display": "App Store"
+        },
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
+          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakapp",
+          "display": "Play Store"
+        }
+      ]
+    },
+    {
+      "name": "Kermalak - Vendor",
+      "tagline": "Restaurant coupon management & performance analytics.",
+      "description": "A business platform allowing restaurants to create and manage highly customizable coupons using a guided multi-step system. Includes analytics dashboard, engagement tracking, and reward redemption mechanisms.",
+      "keyFeatures": [
+        "Step-by-step coupon builder",
+        "Coupon analytics & statistics",
+        "Engagement-based rewards",
+        "Restaurant dashboard"
+      ],
+      "screenshots": [
+        "assets/projects/kv1.jpg",
+        "assets/projects/kv2.jpg",
+        "assets/projects/kv3.jpg",
+        "assets/projects/kv4.jpg",
+        "assets/projects/kv5.jpg",
+        "assets/projects/kv6.jpg",
+        "assets/projects/kv7.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
+          "url": "https://apps.apple.com/us/app/%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83-%D8%AA%D8%A7%D8%AC%D8%B1/id6754461966",
+          "display": "App Store"
+        },
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
+          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakvendor",
+          "display": "Play Store"
+        }
+      ]
+    },
+    {
+      "name": "Yalla Booking",
+      "tagline": "Service booking platform with gamified rewards system.",
+      "description": "A booking ecosystem where users can reserve services, collect reward points, and participate in interactive gamification features like spin wheels for promotional incentives.",
+      "screenshots": [
+        "assets/projects/yb1.jpg",
+        "assets/projects/yb2.jpg",
+        "assets/projects/yb3.jpg",
+        "assets/projects/yb4.jpg",
+        "assets/projects/yb5.jpg",
+        "assets/projects/yb6.jpg",
+        "assets/projects/yb7.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Pusher",
+          "icon": {
+            "assetName": "assets/icons/live.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
+          "url": "https://play.google.com/store/apps/details?id=dev.technoplus.yallabooking&hl=en&pli=1",
+          "display": "Play Store"
+        }
+      ]
+    },
+    {
+      "name": "Al Hadaf",
+      "tagline": "Wholesale ordering platform for suppliers and customers.",
+      "description": "a wholesale platform for sellers to place orders for their customer, and for customer to place their own orders.",
+      "screenshots": [
+        "assets/projects/hf1.jpg",
+        "assets/projects/hf2.jpg",
+        "assets/projects/hf3.jpg",
+        "assets/projects/hf4.jpg",
+        "assets/projects/hf5.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Pusher",
+          "icon": {
+            "assetName": "assets/icons/live.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
+          "url": "https://apps.apple.com/us/app/%D9%85%D9%86%D8%B5%D8%A9-%D8%A7%D9%84%D9%87%D8%AF%D9%81/id6738759227",
+          "display": "App Store"
+        }
+      ]
+    },
+    {
       "name": "Rabhan",
+      "tagline": "Wholesale marketplace with integrated provider chat.",
       "description": "a wholesale platform for sellers to place orders for their customer, and for customer to place their own orders. The app contain chat feature for users with the providers.",
       "screenshots": [
         "assets/projects/rb1.jpg",
@@ -792,12 +964,8 @@
     },
     {
       "name": "VitalFit",
+      "tagline": "Fitness booking & subscription management platform.",
       "description": "Fitness app that allow the user to choose the best classes and trainer and choose the best plan and pay for it. Also, the app contain reel section that the trainers can post to the users to watch.",
-      "url": "https://gitlab.com/tonywaer1/vitalfit",
-      "icon": {
-        "assetName": "assets/icons/gitlab.svg",
-        "color": "0xffffffff"
-      },
       "screenshots": [
         "assets/projects/vf1.jpg",
         "assets/projects/vf2.jpg",
@@ -829,54 +997,21 @@
             "assetName": "assets/icons/payment.svg"
           }
         }
-      ]
-    },
-    {
-      "name": "Ed-Autism",
-      "description": "A supportive app for parents of children with autism, offering interactive activities to build social and cognitive skills. It also provides expert resources, progress tracking, and access to specialists. (The code is for version 1 of the app '2022')",
-      "url": "https://gitlab.com/tonywaer1/ed-autism",
-      "icon": {
-        "assetName": "assets/icons/gitlab.svg",
-        "color": "0xffffffff"
-      },
-      "screenshots": [
-        "assets/projects/ed1.jpg",
-        "assets/projects/ed2.jpg",
-        "assets/projects/ed3.jpg",
-        "assets/projects/ed4.jpg",
-        "assets/projects/ed5.jpg",
-        "assets/projects/ed6.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Firebase",
-          "icon": {
-            "assetName": "assets/icons/firebase.svg"
-          }
-        }
       ],
       "links": [
         {
-          "url": "https://drive.google.com/drive/folders/1SmOQAhMukcEGte5MCJyqqUOUUpMqkxHO?usp=sharing",
-          "display": "New Version (APK)"
+          "icon": {
+            "assetName": "assets/icons/gitlab.svg"
+          },
+          "url": "https://gitlab.com/tonywaer1/vitalfit",
+          "display": "Source Code"
         }
       ]
     },
     {
       "name": "Shobek Lobek Germany",
-      "description": "online store for everyday needs, with many ways of payment (Stripe, Paypal, Cash on delivery)",
+      "tagline": "E-commerce platform with multi-payment integration.",
+      "description": "A production-ready online store offering Stripe, PayPal, and cash-on-delivery payment solutions with scalable Firebase backend and optimized checkout flow.",
       "screenshots": [
         "assets/projects/sl1.png",
         "assets/projects/sl2.png",
@@ -934,63 +1069,8 @@
       ]
     },
     {
-      "name": "POS",
-      "description": "point of sale system that works on tablets and can use a barcode scanner and thermal printer (Network, USB, Bluetooth), the app is highly customizable",
-      "screenshots": [
-        "assets/projects/pos1.jpg",
-        "assets/projects/pos2.jpg",
-        "assets/projects/pos3.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Thermal Printer Sdk",
-          "icon": {
-            "assetName": "assets/icons/sdk.svg"
-          }
-        },
-        {
-          "name": "SumUp Payment",
-          "icon": {
-            "assetName": "assets/icons/payment.svg"
-          }
-        },
-        {
-          "name": "Dual Screen",
-          "icon": {
-            "assetName": "assets/icons/screen.svg"
-          }
-        },
-        {
-          "name": "Sqlite",
-          "icon": {
-            "assetName": "assets/icons/sql.svg"
-          }
-        }
-      ],
-      "links": [
-        {
-          "icon": {
-            "assetName": "assets/icons/google-play.svg"
-          },
-          "url": "https://play.google.com/store/apps/details?id=de.insoftonline.posapp",
-          "display": "Play Store"
-        }
-      ]
-    },
-    {
       "name": "InSoft Screen",
+      "tagline": "Android TV kiosk app with remote control & QR input support.",
       "description": "app for Android TV that can open a webpage on fullscreen and on startup, you can control the app using the remote control and scan QR to type the URL from your phone",
       "screenshots": [
         "assets/projects/tv1.png",
@@ -1028,6 +1108,7 @@
     },
     {
       "name": "S&M",
+      "tagline": "Restaurant wholesale supply ordering platform.",
       "description": "wholesale app for restaurants to buy what they need for their work",
       "screenshots": [
         "assets/projects/sm1.png",
@@ -1074,6 +1155,7 @@
     },
     {
       "name": "Restaurant",
+      "tagline": "Tablet-based waiter ordering & direct print system.",
       "description": "waiters application that helps them to create orders and print the order directly",
       "screenshots": [
         "assets/projects/res1.png",
@@ -1136,7 +1218,8 @@
   "aboutSectionTitleAlt": "About Me",
   "experienceSectionTitle": "Experience",
   "projectsSectionTitle": "Projects",
-  "privateProjectsSectionTitle": "Private Projects",
+  "featuredProjectsSectionTitle": "Featured Projects",
+  "keyFeaturesSectionTitle": "Key Features",
   "educationsSectionTitle": "Education",
   "resume": "Resume",
   "downloadResume": "Download resume",
