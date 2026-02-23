@@ -107,25 +107,23 @@
 <!--    cursor: none; /* hide default cursor */-->
 <!--  }-->
 
-  .custom-cursor {
+  .circle {
     position: fixed;
     top: 0;
     left: 0;
-    width: 20px;
-    height: 20px;
-    background: #e52b2b80;
+    width: 24px;
+    height: 24px;
+    background-color: #952b2b80;
     border-radius: 50%;
     pointer-events: none;
-    transform: translate(-50%, -50%);
-    transition:
-      width 0.2s ease,
-      height 0.2s ease,
-      border 0.2s ease;
     z-index: 9999;
   }
 
-
-
+  @media (hover: none) and (pointer: coarse) {
+    #cursor-trail {
+      display: none;
+    }
+  }
     </style>
     <script id="splash-screen-script">
         function removeSplashFromWeb() {
@@ -144,16 +142,57 @@
     <img class="center" aria-hidden="true" src="splash/img/light-1x.png" alt="">
 </picture>
 
-<div class="custom-cursor"></div>
+<div id="cursor-trail"></div>
 
 <script src="flutter_bootstrap.js" async=""></script>
-<script>
-    const cursor = document.querySelector('.custom-cursor');
+<!--    const cursor = document.querySelector('.custom-cursor');-->
 
-    document.addEventListener('mousemove', e => {
-      cursor.style.left = e.clientX + 'px';
-      cursor.style.top = e.clientY + 'px';
+<!--    document.addEventListener('mousemove', e => {-->
+<!--      cursor.style.left = e.clientX + 'px';-->
+<!--      cursor.style.top = e.clientY + 'px';-->
+<!--    });-->
+<script>
+    const coords = { x: 0, y: 0 };
+    const trailContainer = document.getElementById("cursor-trail");
+    const numberOfCircles = 20;
+    const circles = [];
+
+    // Create circles dynamically
+    for (let i = 0; i < numberOfCircles; i++) {
+      const circle = document.createElement("div");
+      circle.classList.add("circle");
+      trailContainer.appendChild(circle);
+      circle.x = 0;
+      circle.y = 0;
+      circles.push(circle);
+    }
+
+    window.addEventListener("mousemove", (e) => {
+      coords.x = e.clientX;
+      coords.y = e.clientY;
     });
+
+    function animateCircles() {
+      let x = coords.x;
+      let y = coords.y;
+
+      circles.forEach((circle, index) => {
+        circle.style.left = x - 12 + "px";
+        circle.style.top = y - 12 + "px";
+        circle.style.transform = `scale(${(circles.length - index) / circles.length})`;
+
+        circle.x = x;
+        circle.y = y;
+
+        const nextCircle = circles[index + 1] || circles[0];
+        x += (nextCircle.x - x) * 0.3;
+        y += (nextCircle.y - y) * 0.3;
+      });
+
+      requestAnimationFrame(animateCircles);
+    }
+
+    animateCircles();
 </script>
 
 </body>
