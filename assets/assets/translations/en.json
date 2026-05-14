@@ -63,111 +63,12 @@
   ],
   "aboutDescription": "Senior Flutter Developer with 3+ years of experience building scalable production apps used across Germany, UAE, Saudi Arabia, and Iraq.\nSpecialized in POS systems, medical platforms, booking apps, payment integrations, and offline-first architectures.\nDelivered 20+ production apps published on App Store & Google Play.",
   "experiences": [
-    {
-      "role": "Mobile App Developer",
-      "company": "Freelance",
-      "description": "As a freelance mobile app developer, I worked with clients across the Arab world, building custom Flutter apps for various sectors.\n\nNotable projects include:\n• Ed-Autism (Jordan), an educational app for children with autism.\n• Manadeb (Saudi Arabia), a delivery management tool with map-based routing.\n• VitalFit (UAE), a platform for booking sports sessions and viewing coach content.\n• HelloDr (Iraq), a medical platform with separate apps for patients and doctors.\n\nI also enhanced and maintained several other apps by adding features and fixing bugs.",
-      "startYear": 2024,
-      "endYear": 2023,
-      "isPresent": true,
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "SQLite",
-          "icon": {
-            "assetName": "assets/icons/sql.svg"
-          }
-        },
-        {
-          "name": "Firebase",
-          "icon": {
-            "assetName": "assets/icons/firebase.svg"
-          }
-        },
-        {
-          "name": "Laravel Api",
-          "icon": {
-            "assetName": "assets/icons/api.svg"
-          }
-        },
-        {
-          "name": "Socket",
-          "icon": {
-            "assetName": "assets/icons/live.svg"
-          }
-        },
-        {
-          "name": "Figma",
-          "icon": {
-            "assetName": "assets/icons/figma.svg"
-          }
-        }
-      ]
-    },
-    {
-      "role": "Mobile App Developer",
-      "company": "TechnoPlus - Syria",
-      "description": "Built consumer-focused mobile applications, including a ride-hailing app, a coupon platform offering location-based deals, and a service booking system.\n\nAlso developed a chat feature with integrated voice and video calling to old project with many other upgrades.",
-      "isPresent": true,
-      "startYear": 2025,
-      "endYear": 2025,
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Firebase",
-          "icon": {
-            "assetName": "assets/icons/firebase.svg"
-          }
-        },
-        {
-          "name": "Laravel Api",
-          "icon": {
-            "assetName": "assets/icons/api.svg"
-          }
-        },
-        {
-          "name": "Google Maps",
-          "icon": {
-            "assetName": "assets/icons/map.svg"
-          }
-        },
-        {
-          "name": "Socket",
-          "icon": {
-            "assetName": "assets/icons/live.svg"
-          }
-        }
-      ],
-      "links": [
-      ]
-    },
+
     {
       "role": "Mobile App Developer",
       "company": "InSoftOnline - Germany",
       "description": "Developed a digital ecosystem for restaurants, including POS systems, self-service kiosks, and management dashboards,\n\noffering a smooth user experience with both real-time and offline functionality.",
-      "isPresent": false,
+      "isPresent": true,
       "startYear": 2022,
       "endYear": 2025,
       "technologies": [
@@ -230,6 +131,105 @@
           "display": "Google Play Store"
         }
       ]
+    },
+    {
+      "role": "Mobile App Developer",
+      "company": "Freelance",
+      "description": "As a freelance mobile app developer, I worked with clients across the Arab world, building custom Flutter apps for various sectors.\n\nNotable projects include:\n• Ed-Autism (Jordan), an educational app for children with autism.\n• Manadeb (Saudi Arabia), a delivery management tool with map-based routing.\n• VitalFit (UAE), a platform for booking sports sessions and viewing coach content.\n• HelloDr (Iraq), a medical platform with separate apps for patients and doctors.\n\nI also enhanced and maintained several other apps by adding features and fixing bugs.",
+      "startYear": 2024,
+      "endYear": 2023,
+      "isPresent": true,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "SQLite",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        },
+        {
+          "name": "Laravel Api",
+          "icon": {
+            "assetName": "assets/icons/api.svg"
+          }
+        },
+        {
+          "name": "Socket",
+          "icon": {
+            "assetName": "assets/icons/live.svg"
+          }
+        },
+        {
+          "name": "Figma",
+          "icon": {
+            "assetName": "assets/icons/figma.svg"
+          }
+        }
+      ]
+    },
+    {
+      "role": "Mobile App Developer",
+      "company": "TechnoPlus - Syria",
+      "description": "Built consumer-focused mobile applications, including a ride-hailing app, a coupon platform offering location-based deals, and a service booking system.\n\nAlso developed a chat feature with integrated voice and video calling to old project with many other upgrades.",
+      "isPresent": false,
+      "startYear": 2024,
+      "endYear": 2026,
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        },
+        {
+          "name": "Laravel Api",
+          "icon": {
+            "assetName": "assets/icons/api.svg"
+          }
+        },
+        {
+          "name": "Google Maps",
+          "icon": {
+            "assetName": "assets/icons/map.svg"
+          }
+        },
+        {
+          "name": "Socket",
+          "icon": {
+            "assetName": "assets/icons/live.svg"
+          }
+        }
+      ],
+      "links": []
     },
     {
       "role": "Web Developer",
@@ -358,25 +358,21 @@
   ],
   "featuredProjects": [
     {
-      "name": "Eallet",
-      "tagline": "Personal finance manager with advanced reporting & full customization.",
-      "description": "Eallet is a highly customizable personal finance application designed to track expenses and income across multiple accounts. The app provides detailed analytical reports, smart reminders, and flexible themes tailored to different user preferences.",
+      "name": "Hedaya",
+      "tagline": "Islamic learning platform with advanced learning & examination features.",
+      "description": "An educational platform focused on Islamic learning and student engagement. Contributed to a full redesign of the application experience and implemented advanced learning and examination features.",
       "keyFeatures": [
-        "Multi-account expense & income tracking",
-        "Advanced financial reports",
-        "Scheduled reminders",
-        "Theme & UI customization",
-        "Offline-first architecture"
+        "Redesigned the complete application UI/UX flow",
+        "Implemented live interactive session support",
+        "Rebuilt the examination system with multiple question formats",
+        "Improved overall usability and learning experience"
       ],
       "screenshots": [
-        "assets/projects/vv1.jpg",
-        "assets/projects/vv2.jpg",
-        "assets/projects/vv3.jpg",
-        "assets/projects/vv4.jpg",
-        "assets/projects/vv6.jpg",
-        "assets/projects/vv7.jpg",
-        "assets/projects/vv8.jpg",
-        "assets/projects/vv9.jpg"
+        "assets/projects/he1.jpg",
+        "assets/projects/he2.jpg",
+        "assets/projects/he3.jpg",
+        "assets/projects/he4.jpg",
+        "assets/projects/he5.jpg"
       ],
       "technologies": [
         {
@@ -396,14 +392,27 @@
           "icon": {
             "assetName": "assets/icons/sql.svg"
           }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
         }
       ],
       "links": [
         {
           "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
+          "url": "https://apps.apple.com/us/app/%D9%87%D8%AF%D8%A7%D9%8A%D8%A9/id6473125881",
+          "display": "Apple App Store"
+        },
+        {
+          "icon": {
             "assetName": "assets/icons/google-play.svg"
           },
-          "url": "https://play.google.com/store/apps/details?id=dev.tonywaar.eallet",
+          "url": "https://play.google.com/store/apps/details?id=com.alshaal.hedayaa&hl=ar",
           "display": "Google Play Store"
         }
       ]
@@ -558,6 +567,117 @@
   ],
   "projects": [
     {
+      "name": "Kermalak - User",
+      "tagline": "Location-based discount discovery platform.",
+      "description": "A consumer-facing platform that enables users to explore nearby offers, redeem discounts on-site, and share deals with friends. Built with scalable Firebase backend architecture.",
+      "keyFeatures": [
+        "Nearby offer discovery",
+        "Instant coupon redemption",
+        "Offer sharing (In-App or using external link 'deeplink'",
+        "Real-time updates"
+      ],
+      "screenshots": [
+        "assets/projects/ka1.jpg",
+        "assets/projects/ka2.jpg",
+        "assets/projects/ka3.jpg",
+        "assets/projects/ka4.jpg",
+        "assets/projects/ka5.jpg",
+        "assets/projects/ka6.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
+          "url": "https://apps.apple.com/us/app/kermalak-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id6754460657",
+          "display": "App Store"
+        },
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
+          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakapp",
+          "display": "Play Store"
+        }
+      ]
+    },
+    {
+      "name": "Kermalak - Vendor",
+      "tagline": "Restaurant coupon management & performance analytics.",
+      "description": "A business platform allowing restaurants to create and manage highly customizable coupons using a guided multi-step system. Includes analytics dashboard, engagement tracking, and reward redemption mechanisms.",
+      "keyFeatures": [
+        "Step-by-step coupon builder",
+        "Coupon analytics & statistics",
+        "Engagement-based rewards",
+        "Restaurant dashboard"
+      ],
+      "screenshots": [
+        "assets/projects/kv1.jpg",
+        "assets/projects/kv2.jpg",
+        "assets/projects/kv3.jpg",
+        "assets/projects/kv4.jpg",
+        "assets/projects/kv5.jpg",
+        "assets/projects/kv6.jpg",
+        "assets/projects/kv7.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
+          "url": "https://apps.apple.com/us/app/%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83-%D8%AA%D8%A7%D8%AC%D8%B1/id6754461966",
+          "display": "App Store"
+        },
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
+          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakvendor",
+          "display": "Play Store"
+        }
+      ]
+    },
+    {
       "name": "Drivo",
       "tagline": "Advanced car marketplace with 30+ vehicle specifications.",
       "description": "Drivo is a full-featured automotive marketplace allowing sellers to list vehicles with over 30 structured specifications. Buyers can filter, search, and compare listings, while dealers can manage dedicated galleries for multiple vehicles.",
@@ -700,117 +820,6 @@
           },
           "url": "https://gitlab.com/tonywaer1/ed-autism",
           "display": "Source Code (V1)"
-        }
-      ]
-    },
-    {
-      "name": "Kermalak - User",
-      "tagline": "Location-based discount discovery platform.",
-      "description": "A consumer-facing platform that enables users to explore nearby offers, redeem discounts on-site, and share deals with friends. Built with scalable Firebase backend architecture.",
-      "keyFeatures": [
-        "Nearby offer discovery",
-        "Instant coupon redemption",
-        "Offer sharing (In-App or using external link 'deeplink'",
-        "Real-time updates"
-      ],
-      "screenshots": [
-        "assets/projects/ka1.jpg",
-        "assets/projects/ka2.jpg",
-        "assets/projects/ka3.jpg",
-        "assets/projects/ka4.jpg",
-        "assets/projects/ka5.jpg",
-        "assets/projects/ka6.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Firebase",
-          "icon": {
-            "assetName": "assets/icons/firebase.svg"
-          }
-        }
-      ],
-      "links": [
-        {
-          "icon": {
-            "assetName": "assets/icons/app-store.svg"
-          },
-          "url": "https://apps.apple.com/us/app/kermalak-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id6754460657",
-          "display": "App Store"
-        },
-        {
-          "icon": {
-            "assetName": "assets/icons/google-play.svg"
-          },
-          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakapp",
-          "display": "Play Store"
-        }
-      ]
-    },
-    {
-      "name": "Kermalak - Vendor",
-      "tagline": "Restaurant coupon management & performance analytics.",
-      "description": "A business platform allowing restaurants to create and manage highly customizable coupons using a guided multi-step system. Includes analytics dashboard, engagement tracking, and reward redemption mechanisms.",
-      "keyFeatures": [
-        "Step-by-step coupon builder",
-        "Coupon analytics & statistics",
-        "Engagement-based rewards",
-        "Restaurant dashboard"
-      ],
-      "screenshots": [
-        "assets/projects/kv1.jpg",
-        "assets/projects/kv2.jpg",
-        "assets/projects/kv3.jpg",
-        "assets/projects/kv4.jpg",
-        "assets/projects/kv5.jpg",
-        "assets/projects/kv6.jpg",
-        "assets/projects/kv7.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Firebase",
-          "icon": {
-            "assetName": "assets/icons/firebase.svg"
-          }
-        }
-      ],
-      "links": [
-        {
-          "icon": {
-            "assetName": "assets/icons/app-store.svg"
-          },
-          "url": "https://apps.apple.com/us/app/%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83-%D8%AA%D8%A7%D8%AC%D8%B1/id6754461966",
-          "display": "App Store"
-        },
-        {
-          "icon": {
-            "assetName": "assets/icons/google-play.svg"
-          },
-          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakvendor",
-          "display": "Play Store"
         }
       ]
     },
