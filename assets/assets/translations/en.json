@@ -418,6 +418,179 @@
       ]
     },
     {
+      "name": "Eallet",
+      "tagline": "Personal finance manager with advanced reporting & full customization.",
+      "description": "Eallet is a highly customizable personal finance application designed to track expenses and income across multiple accounts. The app provides detailed analytical reports, smart reminders, and flexible themes tailored to different user preferences.",
+      "keyFeatures": [
+        "Multi-account expense & income tracking",
+        "Advanced financial reports",
+        "Scheduled reminders",
+        "Theme & UI customization",
+        "Offline-first architecture"
+      ],
+      "screenshots": [
+        "assets/projects/vv1.jpg",
+        "assets/projects/vv2.jpg",
+        "assets/projects/vv3.jpg",
+        "assets/projects/vv4.jpg",
+        "assets/projects/vv6.jpg",
+        "assets/projects/vv7.jpg",
+        "assets/projects/vv8.jpg",
+        "assets/projects/vv9.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Sqlite",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
+          "url": "https://play.google.com/store/apps/details?id=dev.tonywaar.eallet",
+          "display": "Google Play Store"
+        }
+      ]
+    },
+    {
+      "name": "Kermalak - User",
+      "tagline": "Location-based discount discovery platform.",
+      "description": "A consumer-facing platform that enables users to explore nearby offers, redeem discounts on-site, and share deals with friends. Built with scalable Firebase backend architecture.",
+      "keyFeatures": [
+        "Nearby offer discovery",
+        "Instant coupon redemption",
+        "Offer sharing (In-App or using external link 'deeplink'",
+        "Real-time updates"
+      ],
+      "screenshots": [
+        "assets/projects/ka1.jpg",
+        "assets/projects/ka2.jpg",
+        "assets/projects/ka3.jpg",
+        "assets/projects/ka4.jpg",
+        "assets/projects/ka5.jpg",
+        "assets/projects/ka6.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Firebase",
+          "icon": {
+            "assetName": "assets/icons/firebase.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "icon": {
+            "assetName": "assets/icons/app-store.svg"
+          },
+          "url": "https://apps.apple.com/us/app/kermalak-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id6754460657",
+          "display": "App Store"
+        },
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
+          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakapp",
+          "display": "Play Store"
+        }
+      ]
+    },
+    {
+      "name": "POS",
+      "tagline": "Tablet-based POS with multi-printer & dual-screen support.",
+      "description": "A highly customizable point-of-sale system designed for tablet environments. Supports barcode scanners, thermal printers (USB, Network, Bluetooth), dual-screen operation, and integrated SumUp payment processing.",
+      "keyFeatures": [
+        "Integrated USB, Bluetooth, and Network thermal printers",
+        "Implemented SumUp payment terminal integration & ZVT protocol communication",
+        "Built dual-screen architecture (merchant screen + customer display)",
+        "Designed offline-first cart persistence using local database (SQLite)",
+        "Generated government-compliant financial reports aligned with German fiscal standards",
+        "Supported barcode scanning & multilingual receipt printing"
+      ],
+      "screenshots": [
+        "assets/projects/pos1.jpg",
+        "assets/projects/pos2.jpg",
+        "assets/projects/pos3.jpg"
+      ],
+      "technologies": [
+        {
+          "name": "Flutter",
+          "icon": {
+            "assetName": "assets/icons/flutter.svg"
+          }
+        },
+        {
+          "name": "Dart",
+          "icon": {
+            "assetName": "assets/icons/dart.svg"
+          }
+        },
+        {
+          "name": "Thermal Printer Sdk",
+          "icon": {
+            "assetName": "assets/icons/sdk.svg"
+          }
+        },
+        {
+          "name": "SumUp Payment",
+          "icon": {
+            "assetName": "assets/icons/payment.svg"
+          }
+        },
+        {
+          "name": "Dual Screen",
+          "icon": {
+            "assetName": "assets/icons/screen.svg"
+          }
+        },
+        {
+          "name": "Sqlite",
+          "icon": {
+            "assetName": "assets/icons/sql.svg"
+          }
+        }
+      ],
+      "links": [
+        {
+          "icon": {
+            "assetName": "assets/icons/google-play.svg"
+          },
+          "url": "https://play.google.com/store/apps/details?id=de.insoftonline.posapp",
+          "display": "Play Store"
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
       "name": "Hello Doctor",
       "tagline": "Medical reservation & patient record management system.",
       "description": "A healthcare platform consisting of separate Doctor and Patient applications. Features include appointment scheduling, secure chat, patient record storage, and live location sharing.",
@@ -496,128 +669,6 @@
           },
           "url": "https://dashboard.hellodrapp.com/storage/Patient%2028.apk",
           "display": "Play Store - Patient App"
-        }
-      ]
-    },
-    {
-      "name": "POS",
-      "tagline": "Tablet-based POS with multi-printer & dual-screen support.",
-      "description": "A highly customizable point-of-sale system designed for tablet environments. Supports barcode scanners, thermal printers (USB, Network, Bluetooth), dual-screen operation, and integrated SumUp payment processing.",
-      "keyFeatures": [
-        "Integrated USB, Bluetooth, and Network thermal printers",
-        "Implemented SumUp payment terminal integration & ZVT protocol communication",
-        "Built dual-screen architecture (merchant screen + customer display)",
-        "Designed offline-first cart persistence using local database (SQLite)",
-        "Generated government-compliant financial reports aligned with German fiscal standards",
-        "Supported barcode scanning & multilingual receipt printing"
-      ],
-      "screenshots": [
-        "assets/projects/pos1.jpg",
-        "assets/projects/pos2.jpg",
-        "assets/projects/pos3.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Thermal Printer Sdk",
-          "icon": {
-            "assetName": "assets/icons/sdk.svg"
-          }
-        },
-        {
-          "name": "SumUp Payment",
-          "icon": {
-            "assetName": "assets/icons/payment.svg"
-          }
-        },
-        {
-          "name": "Dual Screen",
-          "icon": {
-            "assetName": "assets/icons/screen.svg"
-          }
-        },
-        {
-          "name": "Sqlite",
-          "icon": {
-            "assetName": "assets/icons/sql.svg"
-          }
-        }
-      ],
-      "links": [
-        {
-          "icon": {
-            "assetName": "assets/icons/google-play.svg"
-          },
-          "url": "https://play.google.com/store/apps/details?id=de.insoftonline.posapp",
-          "display": "Play Store"
-        }
-      ]
-    }
-  ],
-  "projects": [
-    {
-      "name": "Kermalak - User",
-      "tagline": "Location-based discount discovery platform.",
-      "description": "A consumer-facing platform that enables users to explore nearby offers, redeem discounts on-site, and share deals with friends. Built with scalable Firebase backend architecture.",
-      "keyFeatures": [
-        "Nearby offer discovery",
-        "Instant coupon redemption",
-        "Offer sharing (In-App or using external link 'deeplink'",
-        "Real-time updates"
-      ],
-      "screenshots": [
-        "assets/projects/ka1.jpg",
-        "assets/projects/ka2.jpg",
-        "assets/projects/ka3.jpg",
-        "assets/projects/ka4.jpg",
-        "assets/projects/ka5.jpg",
-        "assets/projects/ka6.jpg"
-      ],
-      "technologies": [
-        {
-          "name": "Flutter",
-          "icon": {
-            "assetName": "assets/icons/flutter.svg"
-          }
-        },
-        {
-          "name": "Dart",
-          "icon": {
-            "assetName": "assets/icons/dart.svg"
-          }
-        },
-        {
-          "name": "Firebase",
-          "icon": {
-            "assetName": "assets/icons/firebase.svg"
-          }
-        }
-      ],
-      "links": [
-        {
-          "icon": {
-            "assetName": "assets/icons/app-store.svg"
-          },
-          "url": "https://apps.apple.com/us/app/kermalak-%D9%83%D8%B1%D9%85%D8%A7%D9%84%D9%83/id6754460657",
-          "display": "App Store"
-        },
-        {
-          "icon": {
-            "assetName": "assets/icons/google-play.svg"
-          },
-          "url": "https://play.google.com/store/apps/details?id=tech.technoplus.kermalakapp",
-          "display": "Play Store"
         }
       ]
     },
